@@ -15,3 +15,7 @@ Solution：将mmdet\core\bbox\transforms.py中将预测结果detach的代码注�
 其次将mmdet\core\utils\misc.py中的detach=True改为False，如下所示：
 
 ![image](https://github.com/JiaweiLian/Problems-solved/blob/main/misc.png)
+
+3. （2022.5.5）mmdetection单机多卡训练多个程序时，报错：RuntimeError: Address already in use，需要更改tools/dist_train.sh中的端口号（PORT），比如29500改为29501
+
+![image](https://github.com/JiaweiLian/Problems-solved/blob/main/dist_train.png)
