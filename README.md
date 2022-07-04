@@ -20,4 +20,9 @@ Solution：将mmdet\core\bbox\transforms.py中将预测结果detach的代码注�
 
 ![image](https://github.com/JiaweiLian/Problems-solved/blob/main/dist_train.png)
 
-4. （2022.7.4）
+4. （2022.7.4）RuntimeError: one of the variables needed for gradient computation has been modified by an inplace operation: [torch.FloatTensor [2, 64, 96, 2]], which is output 0 of SelectBackward, is at version 1; expected version 0 instead.
+
+将inplace操作换为out of place 操作。
+
+![image](https://github.com/JiaweiLian/Problems-solved/blob/main/inplace%20-%20%E5%89%AF%E6%9C%AC.png)
+![image](https://github.com/JiaweiLian/Problems-solved/blob/main/out_of_place%20-%20%E5%89%AF%E6%9C%AC.png)
