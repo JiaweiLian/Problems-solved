@@ -27,10 +27,11 @@ Solution：将mmdet\core\bbox\transforms.py中将预测结果detach的代码注�
 ![image](https://github.com/JiaweiLian/Problems-solved/blob/main/inplace%20-%20%E5%89%AF%E6%9C%AC.png)
 ![image](https://github.com/JiaweiLian/Problems-solved/blob/main/out_of_place%20-%20%E5%89%AF%E6%9C%AC.png)
 
-5.（2022.9.22）深度学习环境配置
+# 5.（2022.9.22）深度学习环境配置
 
 （1）安装conda和pytorch参照（https://blog.csdn.net/qq_37541097/article/details/120951214）
 
 （2）安装cuda和cudnn参照（https://zhuanlan.zhihu.com/p/198161777）
 
-  解压.tar.xz文件：tar -xf archive.tar.xz
+ 解压.tar.xz文件：tar -xf archive.tar.xz；
+ 各版本cuda下载：直接搜索（如“cuda11.3下载”）
