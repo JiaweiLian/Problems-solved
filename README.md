@@ -32,3 +32,5 @@ Solution：将mmdet\core\bbox\transforms.py中将预测结果detach的代码注�
 （1）安装conda和pytorch参照（https://blog.csdn.net/qq_37541097/article/details/120951214）
 
 （2）安装cuda和cudnn参照（https://zhuanlan.zhihu.com/p/198161777）
+
+  解压.tar.xz文件：tar -xf archive.tar.xz
