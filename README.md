@@ -36,3 +36,7 @@ Solution：将mmdet\core\bbox\transforms.py中将预测结果detach的代码注�
  解压.tar.xz文件：tar -xf archive.tar.xz；
  
  各版本cuda下载：直接搜索（如“cuda11.3下载”）；
+ 
+ # 6. MMDetection安装
+ 
+ mim install mmcv-full==1.5.0 (按照GitHub教程安装，然后匹配mmcv和mmdet版本即可)
