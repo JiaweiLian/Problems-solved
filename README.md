@@ -31,6 +31,8 @@ Solution：将mmdet\core\bbox\transforms.py中将预测结果detach的代码注�
 
 https://blog.csdn.net/Yuan_mingyu/article/details/123927937
 
+还需安装cuda和cudnn，参考问题7
+
 win10本地安装各种包时关掉VPN
 
  解压.tar.xz文件：tar -xf archive.tar.xz；
@@ -47,8 +49,14 @@ win10本地安装各种包时关掉VPN
 
 解决方法 https://zhuanlan.zhihu.com/p/370524448
 
-# 深度学习环境配置
+# 8. 深度学习环境配置
 
 （1）安装conda和pytorch参照 https://blog.csdn.net/qq_37541097/article/details/120951214
 
 （2）安装cuda和cudnn参照 https://zhuanlan.zhihu.com/p/198161777
+
+# 9. log文件存在导致cuda安装失败
+
+![image](https://github.com/JiaweiLian/Problems-solved/blob/main/log%E6%96%87%E4%BB%B6%E5%AD%98%E5%9C%A8%E5%AF%BC%E8%87%B4cuda%E5%AE%89%E8%A3%85%E5%A4%B1%E8%B4%A5.jpg)
+
+解决方法：联系服务器管理员删除即可
