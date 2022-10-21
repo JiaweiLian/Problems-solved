@@ -41,11 +41,12 @@ win10本地安装各种包时关掉VPN
  
  各版本cuda下载：直接搜索（如“cuda11.3下载”）；
  
- # 6. MMDetection安装
+# 6. MMDetection安装
  
  mim install mmcv-full==1.5.0 (按照GitHub教程安装，然后匹配mmcv和mmdet版本即可)
  
-  # 7. conda创建虚拟环境报错
+# 7. conda创建虚拟环境报错
   
-  ![image](https://github.com/JiaweiLian/Problems-solved/blob/main/conda%E5%88%9B%E5%BB%BA%E8%99%9A%E6%8B%9F%E7%8E%AF%E5%A2%83%E6%8A%A5%E9%94%99.jpg)
+![image](https://github.com/JiaweiLian/Problems-solved/blob/main/conda%E5%88%9B%E5%BB%BA%E8%99%9A%E6%8B%9F%E7%8E%AF%E5%A2%83%E6%8A%A5%E9%94%99.jpg)
 
+解决方法（https://zhuanlan.zhihu.com/p/370524448）
