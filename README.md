@@ -29,7 +29,7 @@ Solution：将mmdet\core\bbox\transforms.py中将预测结果detach的代码注�
 
 # 5.（2022.9.22）深度学习环境配置
 
-（1）安装conda（https://blog.csdn.net/Yuan_mingyu/article/details/123927937）
+（1）安装conda https://blog.csdn.net/Yuan_mingyu/article/details/123927937
 
 （2）安装pytorch（）
 
@@ -49,4 +49,4 @@ win10本地安装各种包时关掉VPN
   
 ![image](https://github.com/JiaweiLian/Problems-solved/blob/main/conda%E5%88%9B%E5%BB%BA%E8%99%9A%E6%8B%9F%E7%8E%AF%E5%A2%83%E6%8A%A5%E9%94%99.jpg)
 
-解决方法（https://zhuanlan.zhihu.com/p/370524448）
+解决方法 https://zhuanlan.zhihu.com/p/370524448
