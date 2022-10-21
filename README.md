@@ -29,11 +29,7 @@ Solution：将mmdet\core\bbox\transforms.py中将预测结果detach的代码注�
 
 # 5.（2022.9.22）深度学习环境配置
 
-（1）安装conda https://blog.csdn.net/Yuan_mingyu/article/details/123927937
-
-（2）安装pytorch（）
-
-（2）安装cuda和cudnn参照（）
+https://blog.csdn.net/Yuan_mingyu/article/details/123927937
 
 win10本地安装各种包时关掉VPN
 
