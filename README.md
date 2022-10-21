@@ -53,7 +53,7 @@ win10本地安装各种包时关掉VPN
 
 （1）安装conda和pytorch参照 https://blog.csdn.net/qq_37541097/article/details/120951214
 
-（2）安装cuda和cudnn参照 https://zhuanlan.zhihu.com/p/198161777
+（2）安装cuda和cudnn参照 https://zhuanlan.zhihu.com/p/198161777  https://zhuanlan.zhihu.com/p/476313656
 
 # 9. log文件存在导致cuda安装失败
 
