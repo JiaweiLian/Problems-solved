@@ -50,3 +50,9 @@ win10本地安装各种包时关掉VPN
 ![image](https://github.com/JiaweiLian/Problems-solved/blob/main/conda%E5%88%9B%E5%BB%BA%E8%99%9A%E6%8B%9F%E7%8E%AF%E5%A2%83%E6%8A%A5%E9%94%99.jpg)
 
 解决方法 https://zhuanlan.zhihu.com/p/370524448
+
+# 深度学习环境配置
+
+（1）安装conda和pytorch参照 https://blog.csdn.net/qq_37541097/article/details/120951214
+
+（2）安装cuda和cudnn参照 https://zhuanlan.zhihu.com/p/198161777
