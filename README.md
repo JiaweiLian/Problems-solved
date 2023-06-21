@@ -66,3 +66,5 @@ win10本地安装各种包时关掉VPN
 （1）上传bbl文件否则参考文献引用出错（https://blog.csdn.net/Code_Sleep_Eat/article/details/107333551#:~:text=%E4%BD%86%20arxiv%20%E5%9C%A8%E7%BA%BF%20%E7%BC%96%E8%AF%91%20%E8%BF%87%E7%A8%8B%E4%B8%A5%E6%A0%BC%E8%A6%81%E6%B1%82%E4%B8%8D%E8%83%BD%E6%9C%89%E9%94%99%E3%80%82%20%E6%89%80%E4%BB%A5%E7%AC%AC%E4%B8%80%E6%AD%A5%E6%98%AF%E8%A6%81%20%E8%A7%A3%E5%86%B3%20%E5%B7%A5%E7%A8%8B%E4%B8%AD%E5%9B%BA%E6%9C%89%E7%9A%84%E6%8A%A5%E9%94%99%EF%BC%8C%E5%9C%A8overleaf%E4%B8%AD,to%20%60bbl%60%E6%B3%A8%E9%87%8A%E6%8E%89tex%E4%B8%AD%E5%AF%B9bib%E6%96%87%E4%BB%B6%E7%9A%84%E8%AE%BE%E7%BD%AEbbl%20%E6%96%87%E4%BB%B6%E5%86%99%E5%85%A5%E5%9B%BE%E7%89%87%EF%BC%9Aeps%20to%20pdf%E4%B8%80%E4%BA%9B%E5%85%B6%E4%BB%96%E7%9A%84tips%20arxiv%20%E8%B4%A6%E5%8F%B7%E6%B3%A8%E5%86%8C%20arxiv）
 
 （2）图片名中不能有空格，如Faster R-CNN，arXiv会自动将空格转为“_”，但还需将main.tex中的图片名换为变更后的图片名。
+
+（3）( & 等特殊符号也不能有
